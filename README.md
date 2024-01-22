@@ -1,6 +1,3 @@
----
-numbersections: true
----
 # Description
 
 I like flags so I picked the Wikipedia page for flag ratios. If you know what flag ratios are here is a ChatGPT response that I slightly edited,
