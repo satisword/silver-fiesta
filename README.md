@@ -38,6 +38,7 @@ $$
 I use the `requests` package to get the HTML of the Wikipedia page with the flag ratios. I then use `BeautifulSoup` to parse the HTML and get the table of flag ratios. I then use `pandas` to read the table into a dataframe. It is important to mention that we could have used `pandas` to read the HTML directly using the `read_html` function but the asignment was to use `BeautifulSoup` or `Scrapy`.
 
 Below you can see an image of the page we are scraping.
+
 <img src="./wikipedia_image.png" width="600" >
 
 
